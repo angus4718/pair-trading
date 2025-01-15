@@ -176,13 +176,5 @@ The project is divided into several steps, each implemented in a separate script
 
 ---
 
-## **Authors**
-- **LAM Lok**
-- **CHEUNG Chun Hin**
-- **NG Shing Cheong**
-- **SIN Chi Man**
-
----
-
 ## **License**
 This project is licensed under the MIT License. See the `LICENSE` file for details.
