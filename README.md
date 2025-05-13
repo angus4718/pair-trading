@@ -41,8 +41,8 @@ The project requires the following libraries and tools:
 ### **Setup**
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/fina4380-pair-trading.git
-   cd fina4380-pair-trading
+   git clone https://github.com/angus4718/pair_trading.git
+   cd pair_trading
    ```
 2. Install Python dependencies:
    ```bash
